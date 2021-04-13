@@ -1,0 +1,10 @@
+PyCitySchools Report
+
+
+The PyCity School District is a compilation of fifteen district and charter schools with 39,170 students. The total District budget is $24,649,428.  District wide, more students are successful in reading than math.  Only about 65% of the student population is passing both math and reading. 
+The top five schools in the district are Cabrera High School, Wilson High School, Thomas High School, Griffin High School, and Pena High School.  All five schools are Charter schools. The 5 worst performing schools in the district are Rodriguez High School, Figueroa High School, Huang High School, Hernandez High School, and Johnson High School. All of the bottom schools are District schools. It’s interesting to note, that all five bottom schools have a larger per student budget compared to the top performers.  This indicates that more than a large budget is important to student success. In fact, when you compare the Charter schools to the District schools, students attending Charter schools are more successful than those of their District counterparts. 
+Another factor that plays into student success is school size. Students at smaller schools are more successful than those at larger schools.  There is a clear inverse relationship to student success and school size. 
+
+
+
+
